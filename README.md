@@ -1,0 +1,4 @@
+crudusuariosobjetosgib
+======================
+
+crudusuarios en objetos
